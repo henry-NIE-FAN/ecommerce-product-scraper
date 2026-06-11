@@ -2,6 +2,8 @@
 
 A portfolio-ready Python scraper that collects product data from a demo e-commerce catalog and exports clean CSV or JSON files.
 
+![E-commerce Product Scraper workflow](assets/workflow.png)
+
 The project is designed to show practical client-facing skills:
 
 - Web scraping with polite request settings
@@ -94,6 +96,22 @@ Clients often need product research, competitor monitoring, catalog extraction, 
 2. Extract useful product fields
 3. Normalize messy web data
 4. Save results in a client-friendly format
+
+## Client-Ready Features
+
+- Clean command-line interface
+- CSV and JSON export for spreadsheet or API workflows
+- Pagination support for multi-page catalogs
+- Offline demo mode for reliable review
+- Unit-tested parsing logic
+
+## Example Client Requests This Solves
+
+- "Scrape product names and prices into a CSV file"
+- "Collect competitor catalog data for market research"
+- "Extract ratings and availability from product listing pages"
+- "Turn website product data into a clean spreadsheet"
+- "Build a small scraper I can run again later"
 
 ## Notes
 
